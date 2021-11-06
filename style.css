@@ -40,7 +40,7 @@ nav ul li{
     display: inline-block;
 }
 
-a{
+.menu, #bottom{
     text-decoration: none;
     margin: 15px;
     color: black;
@@ -54,6 +54,7 @@ a{
 }
 
 /* sotto-header */
+/* prima colonna */
 .sotto-header{
     background-color: #B4D0E7;
     height: 540px;
@@ -88,4 +89,16 @@ a{
     line-height: 22px;
     font-size: 17px;
     font-weight: lighter;
+}
+
+.bottom-prova-gratuita{
+    margin-top: 33px;
+}
+
+.prova-gratuita{
+    color: white;
+    background-color: #0061FF;
+    border: solid 10px #0061FF;
+    text-decoration: none;
+    padding: 0 12px;
 }
