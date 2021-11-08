@@ -173,7 +173,7 @@ nav ul li{
 }
 
 /* colonne */
-.col-1{
+.col-1, .col-2{
     width: 23%;
     margin-top: 2%;
     float: left;
