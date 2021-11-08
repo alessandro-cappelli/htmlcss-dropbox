@@ -137,3 +137,7 @@ nav ul li{
     position: absolute;
     width: 33%;
 }
+
+.parte-vuota{
+    height: 22vh;
+}
