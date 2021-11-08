@@ -67,9 +67,11 @@ nav ul li{
     width: 80%;
     margin: 0 auto;
 }
+
 .title{
     font-size: 66px;
-    width: 1067px;
+    width: 100%;
+    position: relative;
 }
 
 .first-column{
@@ -79,9 +81,10 @@ nav ul li{
     
 }
 
+/* seconda colonna */
 .second-column{
     float: left;
-    width: 391px;
+    width: 36%;
     margin-top: 35px;
 }
 
@@ -101,4 +104,36 @@ nav ul li{
     border: solid 10px #0061FF;
     text-decoration: none;
     padding: 0 12px;
+}
+
+.prova-gratuita:hover{
+    background-color: rgba(0, 97, 255, 0.8);
+    border: solid 10px rgba(0, 97, 255, 0.8);
+    padding: 0 12px;
+}
+
+.cancel-subscription{
+    margin-top: 21px;
+    font-size: 13px;
+    font-weight: lighter
+}
+
+.down-arrow{
+    margin-top: 50px;
+    font-size: 58px;
+}
+
+.fas{
+    color: black;
+}
+
+.img-container{
+    float: right;
+    width: 63%;
+    margin-top: 35px;
+}
+
+.img2{
+    position: absolute;
+    width: 33%;
 }
