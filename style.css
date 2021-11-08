@@ -25,6 +25,7 @@ header{
 
 .logo{
     margin-top: 22px;
+    margin-right: 15px;
 }
 
 .menu-dx, .menu-lx, .initial{
@@ -138,6 +139,9 @@ nav ul li{
     width: 33%;
 }
 
+/* spazio vuoto */
 .parte-vuota{
     height: 22vh;
 }
+/* spazio vuoto */
+
