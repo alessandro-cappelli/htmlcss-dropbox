@@ -177,6 +177,7 @@ nav ul li{
     width: 23%;
     margin-top: 2%;
     float: left;
+    border: solid 1px gray;
 }
 
 .tipo{
@@ -207,5 +208,46 @@ nav ul li{
 }
 
 .descrizione-pacchetto{
-    
+    margin-top: 45px;
+}
+
+.descrizione-pacchetto p{
+    margin-bottom: 25px;
+}
+
+.prova-gratis{
+    color: white;
+    background-color: #0061FF;
+    text-decoration: none;
+    text-align: center;
+    display: grid;
+    border: 10px solid #0061FF;
+    margin-bottom: 27px;
+}
+
+.oppure{
+    display: inline-block;
+    padding: 0 0 25px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 25px;
+}
+
+.acquista-ora{
+    color: dodgerblue;
+}
+
+.punti-salienti{
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 22px;
+}
+
+.check-list{
+    list-style: none;
+    margin-bottom: 55%;
+}
+
+.check-list li{
+    margin-bottom: 22px;
+
 }
