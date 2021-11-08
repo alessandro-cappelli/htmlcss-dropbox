@@ -185,6 +185,11 @@ nav ul li{
     padding: 10px;
 }
 
+.container-col{
+    width: 90%;
+    margin: 0 auto;
+}
+
 .pacchetto{
 
 }
@@ -199,4 +204,8 @@ nav ul li{
 .prezzo-pacchetto{
     font-weight: bold;
     margin-bottom: 8px;
+}
+
+.descrizione-pacchetto{
+    
 }
