@@ -169,7 +169,7 @@ nav ul li{
 }
 
 .selezione{
-    margin-top: 5%;
+    margin-top: 2%;
 }
 
 /* colonne */
@@ -178,6 +178,20 @@ nav ul li{
     margin-top: 2%;
     float: left;
     border: solid 1px gray;
+    margin-right: 15%;
+    margin-bottom: 2%;
+}
+
+.col-1 .check-list{
+    margin-bottom: 66%;
+}
+
+.col-3{
+    width: 23%;
+    margin-top: 2%;
+    float: right;
+    border: solid 1px gray;
+    margin-bottom: 2%;
 }
 
 .tipo{
