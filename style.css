@@ -183,7 +183,7 @@ nav ul li{
 }
 
 .col-1 .check-list{
-    margin-bottom: 66%;
+    margin-bottom: 241px;
 }
 
 .col-3{
@@ -196,8 +196,8 @@ nav ul li{
 
 .tipo{
     text-align: center;
-    border: solid gray 1px;
     padding: 10px;
+    border-bottom: 1px solid gray;
 }
 
 .container-col{
@@ -264,4 +264,62 @@ nav ul li{
 .check-list li{
     margin-bottom: 22px;
 
+}
+
+.col-4{
+    width: 100%;
+}
+
+.title-col4{
+    width: 100%;
+    border: 1px solid gray;
+    text-align: center;
+    padding: 10px;
+    border-bottom: 0;
+}
+
+.coll{
+    border: 1px solid gray;
+    clear: both;
+    display: table;
+    width: 100%;
+}
+.container-prova{
+    width: 97%;
+    margin: 0 auto;
+    
+}
+
+.nome-abbonamento{
+    font-size: 23px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+.ufficio-vendite{
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.supporto{
+    font-size: 14px;
+    margin-top: 31px;
+}
+
+.description{
+    float: left;
+}
+
+.col-ufficio{
+    float: right;
+    display: table;
+    margin-top: 25px;
+}
+
+.bottom-ufficio{
+    text-decoration: none;
+    color: white;
+    background-color: #0061FF;
+    border: 10px solid #0061FF;
+    padding: 0 70px;
 }
