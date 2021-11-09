@@ -369,7 +369,7 @@ nav ul li{
 }
 
 /* immagini-frasi */
-.title-3{
+.title-3, .title-4{
     font-weight: bold;
     font-size: 35px;
 }
@@ -401,4 +401,35 @@ nav ul li{
 
 .parte-vuota2{
     height: 13vh;
+}
+
+/* titolo 4 */
+.title-4{
+    margin-bottom: 25px;
+}
+
+.link-title-4{
+    color: dodgerblue;
+    display: inline-block;
+    margin-bottom: 25px;
+}
+
+.container-img-frase{
+    width: 100%;
+}
+
+.quadrato-green{
+    width: 242px;
+    height: 242px;
+    background-color: #A2D39B;
+}
+
+.img-green, .img-bordau{
+    width: 100%;
+}
+
+.quadrato-bordau{
+    width: 242px;
+    height: 242px;
+    background-color: #61082B;
 }
