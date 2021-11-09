@@ -368,7 +368,33 @@ nav ul li{
     color: black;
 }
 
+/* immagini-frasi */
 .title-3{
     font-weight: bold;
     font-size: 35px;
+}
+
+.foto-frasi{
+    display: table;
+    clear: both;
+}
+
+.container-foto-frasi, .container-foto-frasi-2{
+    float: left;
+    width: 23%;
+    margin-right: 15%;
+}
+
+.container-foto-frasi-3{
+    float: right;
+    width: 23%;
+}
+.img{
+    width: 100%;
+}
+
+.descr-img{
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 25px;
 }
