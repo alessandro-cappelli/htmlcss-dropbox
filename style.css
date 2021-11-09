@@ -329,6 +329,7 @@ nav ul li{
 .immagine-frase{
     display: table;
     clear: both;
+    width: 100%;
 }
 
 .container-img{
@@ -339,4 +340,35 @@ nav ul li{
 .img-partner{
     width: 100%;
     height: 500px;
+}
+
+.container-frase{
+    float: right;
+    width: 24%;
+}
+.container-frase p a{
+    display: inline-block
+}
+
+.titolo-partner{
+    font-weight: bold;
+    font-size: 27px;
+}
+
+.descrizione-partner{
+    margin-top: 25px;
+    line-height: 27px;
+    margin-bottom: 22px;
+}
+
+.bottom-trova{
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 10px 20px;
+    color: black;
+}
+
+.title-3{
+    font-weight: bold;
+    font-size: 35px;
 }
