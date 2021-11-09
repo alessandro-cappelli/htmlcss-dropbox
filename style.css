@@ -418,13 +418,20 @@ nav ul li{
     width: 100%;
 }
 
+.prima-righa{
+    width: 484px;
+    height: 484px;
+}
 .quadrato-green{
+    display: inline-block;
+    float: left;
     width: 242px;
     height: 242px;
     background-color: #A2D39B;
 }
 
-.img-green, .img-bordau{
+.img-green, .img-bordau, 
+.img-celeste, .img-rossochiaro{
     width: 100%;
 }
 
@@ -432,4 +439,20 @@ nav ul li{
     width: 242px;
     height: 242px;
     background-color: #61082B;
+    display: inline-block;
+    float: left;
+}
+
+.quadrato-celeste{
+    width: 242px;
+    height: 242px;
+    background-color: #0093CE;
+    float: left;
+}
+
+.quadrato-rossochiaro{
+    width: 242px;
+    height: 242px;
+    background-color: #FF1C1C;
+    float: left;
 }
