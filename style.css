@@ -109,13 +109,13 @@ nav ul li{
     background-color: #0061FF;
     border: solid 10px #0061FF;
     text-decoration: none;
-    padding: 0 12px;
+    padding: 0 12px #0061FF;
 }
 
 .prova-gratuita:hover{
     background-color: rgba(0, 97, 255, 0.8);
     border: solid 10px rgba(0, 97, 255, 0.8);
-    padding: 0 12px;
+    padding: 0 12px rgba(0, 97, 255, 0.8);
 }
 
 .cancel-subscription{
@@ -266,6 +266,7 @@ nav ul li{
 
 }
 
+/* colonna 4 */
 .col-4{
     width: 100%;
 }
@@ -322,4 +323,20 @@ nav ul li{
     background-color: #0061FF;
     border: 10px solid #0061FF;
     padding: 0 70px;
+}
+
+/* immagine partner */
+.immagine-frase{
+    display: table;
+    clear: both;
+}
+
+.container-img{
+    float: left;
+
+}
+
+.img-partner{
+    width: 100%;
+    height: 500px;
 }
