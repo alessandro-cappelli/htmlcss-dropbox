@@ -514,3 +514,26 @@ nav ul li{
     display: inline-block;
     margin-top: 50px;
 }
+
+/* parte celeste */
+.sfondo-celeste{
+    background-color: #B4D0E7;
+    height: 400px;
+}
+
+.container-margin{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.title-5{
+    display: inline-block;
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 150px; 
+}
+
+.prova-gratuita-2{
+    display: inline-block;
+    float: right;
+}
