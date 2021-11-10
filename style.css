@@ -424,8 +424,8 @@ nav ul li{
 
 /* quadrati sinistra */
 .prima-righa{
-    width: 484px;
-    height: 484px;
+    width: 20%;
+    height: 20%;
     display: inline-block;
     float: left;
 }
@@ -464,8 +464,8 @@ nav ul li{
 
 /* quadrati destra */
 .seconda-righa{
-    width: 484px;
-    height: 484px;
+    width: 20%;
+    height: 20%;
     display: inline-block;
     float: right;
 }
@@ -496,11 +496,10 @@ nav ul li{
 
 /* parte centrale */
 .container-centrale{
-    width: 53%;
+    width: 45%;
     margin: 0 auto;
     display: inline-block;
     float: left;
-    margin-left: 8%;
 }
 
 .container-img-centrale{
@@ -510,7 +509,7 @@ nav ul li{
     width: 12%;
 }
 .scritta-centrale{
-    width: 30%;
+    width: 50%;
     display: inline-block;
     margin-top: 50px;
 }
