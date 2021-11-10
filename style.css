@@ -441,7 +441,6 @@ nav ul li{
 .img-celeste, .img-rossochiaro,
 .img-celestino, .img-rosso, 
 .img-giallo, .img-blu{
-    width: 100%;
     width: 50%;
     height: 50%;
     transform: translate(50%, 48%);
